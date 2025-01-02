@@ -40,6 +40,7 @@ const handleSubmit = async (e) => {
         setSuccess(result.message);
         setError(null);
         setFormData({ name: '', email: '', phone: '', message: '' });
+        
     } catch (err) {
         setError('Failed to submit contact form.');
         setSuccess(null);

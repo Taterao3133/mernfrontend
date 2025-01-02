@@ -1,5 +1,5 @@
-import courseimg1 from '../Images/course-heroimg.jpg'
-import courseimg2 from '../Images/course-heroimg2.jpg'
+import courseimg1 from '../Images/course-heroimg.webp'
+import courseimg2 from '../Images/course-heroimg2.webp'
 import haircut1 from '../Images/haircut1.jpg'
 import makaup1 from '../Images/makaup1.jpg'
 import pedicure1 from '../Images/pedicure1.jpg'
